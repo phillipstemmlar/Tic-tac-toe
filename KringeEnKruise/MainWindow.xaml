@@ -1,0 +1,25 @@
+﻿<Window x:Name="frmMain" x:Class="KringeEnKruise.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KringeEnKruise"
+        mc:Ignorable="d"
+        Title="Kringe en Kruise" Height="418.263" Width="235.816" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="White">
+    <Grid x:Name="grid">
+        <Button x:Name="btnPosA1" Content="A1" HorizontalAlignment="Left" Margin="10  ,76,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosA2" Content="A2" HorizontalAlignment="Left" Margin="79,  76,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosA3" Content="A3" HorizontalAlignment="Left" Margin="148, 76,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosB3" Content="B3" HorizontalAlignment="Left" Margin="148,145,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosB2" Content="B2" HorizontalAlignment="Left" Margin="79, 145,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosB1" Content="B1" HorizontalAlignment="Left" Margin="10, 145,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosC1" Content="C1" HorizontalAlignment="Left" Margin="10, 214,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosC2" Content="C2" HorizontalAlignment="Left" Margin="79, 214,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnPosC3" Content="C3" HorizontalAlignment="Left" Margin="148,214,0,0" VerticalAlignment="Top" Width="64" Height="64" Click="btnPosXY_Click"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="79,347,0,0" VerticalAlignment="Top" Width="64" Height="24" Click="btnReset_Click"/>
+        <Label x:Name="lblTitle" Content="0's and X's" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0" Height="40" Width="202" FontSize="20" FontFamily="Impact"/>
+        <Label x:Name="lblTurnNotify" Content="PlayerX's move" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0" Height="25" Width="202"/>
+        <Label x:Name="lblScoreP1" Content="0 - Player1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,293,0,0" Height="25" Width="202"/>
+        <Label x:Name="lblScoreP2" Content="0 - Player2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,317,0,0" Height="25" Width="202"/>
+    </Grid>
+</Window>

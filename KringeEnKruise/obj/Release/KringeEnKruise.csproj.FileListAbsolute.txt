@@ -1,0 +1,14 @@
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\bin\Release\KringeEnKruise.exe.config
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\bin\Release\KringeEnKruise.exe
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\bin\Release\KringeEnKruise.pdb
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\MainWindow.g.cs
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\App.g.cs
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise_MarkupCompile.cache
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise_MarkupCompile.lref
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\MainWindow.baml
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise.g.resources
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise.Properties.Resources.resources
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise.csproj.GenerateResource.Cache
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise.csproj.CoreCompileInputs.cache
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise.exe
+D:\Programming\C#\C# - WPF\KringeEnKruise\KringeEnKruise\obj\Release\KringeEnKruise.pdb
